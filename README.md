@@ -1,2 +1,2 @@
 # EO-documentations
-Eclipse Origin's unofficial documentation
+Eclipse Origin's official documentation
